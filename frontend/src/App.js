@@ -12,7 +12,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Work...</h1>
-      <button onClick={onCloseHandler}>close</button>
+      <button onClick={onCloseHandler}>Close</button>
     </div>
   );
 }
